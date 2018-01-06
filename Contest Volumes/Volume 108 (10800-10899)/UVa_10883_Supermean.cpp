@@ -18,7 +18,7 @@ Again the problem is, for 50000 numbers this will overflow. Hence, you can split
 Also consider negative numbers for logarithm. Happy hunting!
 
 
-{ƒ°numbers[k]*C(n - 1, k) (k = 0, 1, ..., n - 1)}/2^(n - 1)
+{Î£numbers[k]*C(n - 1, k) (k = 0, 1, ..., n - 1)}/2^(n - 1)
 
 */
 
